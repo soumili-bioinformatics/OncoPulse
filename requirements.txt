@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+streamlit
+scikit-learn
+shap
+lifelines
+geoparse
+umap-learn
+pyarrow
+statsmodels
+joblib
