@@ -1,8 +1,6 @@
 # OncoPulse 🧬
 ### Multi-Cancer Transcriptomic Biomarker Discovery & Risk Stratification Engine
 
-> **CV tagline:** *"End-to-end Python bioinformatics pipeline for cancer biomarker discovery, integrating differential expression analysis, SHAP-explained machine learning, and survival risk stratification on 2,000+ gene × 300+ sample TCGA-style RNA-seq data."*
-
 ---
 
 ## What makes this project stand out
