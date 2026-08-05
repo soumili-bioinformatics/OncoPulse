@@ -101,10 +101,5 @@ TCGA RNA-seq data
 
 ---
 
-## How to present this in interviews
-
-**"I built OncoPulse, a 5-stage Python pipeline that takes public TCGA RNA-seq data and outputs interpretable cancer biomarkers and patient risk scores. It uses differential expression analysis to find cancer-specific genes, trains Random Forest and ANN classifiers with cross-validated AUC > 0.9, explains predictions using SHAP, and performs survival risk stratification with Kaplan-Meier analysis. The whole thing is wrapped in a live Streamlit dashboard you can interact with right now."**
-
----
 
 *Built by Soumili Paul | MSc Bioinformatics, SPPU | soumili77paul@gmail.com*
